@@ -1,9 +1,5 @@
+_site
 .sass-cache
 node_modules
 sjs.sublime-project
 sjs.sublime-workspace
-node_modules
-test/unit/browserifiedTests.js
-.sass-cache
-_site
-_layouts
